@@ -47,8 +47,5 @@ The script compares models based on Mean Absolute Error (MAE) and Root Mean Squa
 - **Scalability for Larger Datasets**
 
 ## Author
-Your Name
-
-## License
-MIT License
+Shahryar Rza
 
